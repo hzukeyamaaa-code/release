@@ -1,0 +1,3 @@
+# 実行ファイルはリポジトリに含めず、GitHub の Releases に添付する
+*.exe
+*.pdb
